@@ -6,9 +6,9 @@
 	<string>net.jautero.desktop-project.capture</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/home/jautero/desktop-project/capture.sh</string>
+		<string>/Users/jautero/desktop-project/capture.sh</string>
 	</array>
 	<key>StartInterval</key>
-	<integer>4000</integer>
+	<integer>40000</integer>
 </dict>
 </plist>
